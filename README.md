@@ -102,7 +102,7 @@ Deliverables:
 
 ### 📦 Installation
 
-1. Clone the P7_notebook repository:
+1. Clone the Project_6 repository:
 ```sh
 git clone https://github.com/chanthbouala/Project_6
 ```
@@ -117,10 +117,10 @@ cd Project_6
 pip install -r requirements.txt
 ```
 
-### 🎮 Using P7_notebook
+### 🎮 Using P6_notebook
 
 ```sh
-jupyter nbconvert --execute P6.ipynb
+jupyter lab P6.ipynb
 ```
 
 ---
