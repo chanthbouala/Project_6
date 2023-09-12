@@ -8,6 +8,7 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/Jupyter-F37626.svg?style&logo=Jupyter&logoColor=white" alt="Jupyter" />
+<img src="https://img.shields.io/badge/Markdown-000000.svg?style&logo=Markdown&logoColor=white" alt="Markdown" />
 </p>
 <img src="https://img.shields.io/github/languages/top/chanthbouala/Project_6?style&color=5D6D7E" alt="GitHub top language" />
 <img src="https://img.shields.io/github/languages/code-size/chanthbouala/Project_6?style&color=5D6D7E" alt="GitHub code size in bytes" />
@@ -86,9 +87,9 @@ Deliverables:
 
 <details closed><summary>Root</summary>
 
-| File                                                                       | Summary                                 |
-| ---                                                                        | ---                                     |
-| [P7.ipynb](https://github.com/chanthbouala/P7_notebook/blob/main/P7.ipynb) | Prompt exceeds max token limit: 872857. |
+| File                                                                     | Summary                                 |
+| ---                                                                      | ---                                     |
+| [P6.ipynb](https://github.com/chanthbouala/Project_6/blob/main/P6.ipynb) | Prompt exceeds max token limit: 137677. |
 
 </details>
 
@@ -119,7 +120,7 @@ pip install -r requirements.txt
 ### 🎮 Using P7_notebook
 
 ```sh
-jupyter nbconvert --execute P7.ipynb
+jupyter nbconvert --execute P6.ipynb
 ```
 
 ---
